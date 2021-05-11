@@ -53,7 +53,7 @@ updateInput(input){
     render(){
         return (
             <div>
-                <img src={logo} width="100" height="100" className="logo"/>
+                <img src={logo} width="100" height="100" className="logo" alt="Sahil"/>
                 <h1 className="app-title">Sahil's ToDo App</h1>
                 <div className="container">
                     Add an Item to your list.....
