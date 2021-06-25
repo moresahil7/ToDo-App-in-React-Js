@@ -1,5 +1,5 @@
 Created TODO website using ReactJs.
-Visit Once: <a href="https://silly-heisenberg-2a49d0.netlify.app/" target = "_blank">TODO List developed in React Js</a>
+<a href="https://silly-heisenberg-2a49d0.netlify.app/" target = "_blank">Visit my Web application here.</a>
 
 # Getting Started with Create React App
 
