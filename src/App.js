@@ -61,7 +61,7 @@ updateInput(input){
                     <input 
                     type="text" 
                     className="input-text" 
-                    placeholder="Update ypur ToDo List" 
+                    placeholder="Update your ToDo List" 
                     required
                     value={this.state.newItem }
                     onChange= {e => this.updateInput(e.target.value)}
@@ -103,12 +103,13 @@ updateInput(input){
                             })}
                             <li>
                                 <input type="checkbox" name="" id="" />
-                                Recording the videos
+                                Developed by<a href = "https://github.com/sahilmore-0412" target = "_blank"> Sahil</a>
                                 <button className="btn">
                                     Delete
                                 </button>
                             </li>
                         </ul>
+                        
                     </div>
                     
                 </div>
