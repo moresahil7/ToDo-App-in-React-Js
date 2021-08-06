@@ -103,7 +103,7 @@ updateInput(input){
                             })}
                             <li>
                                 <input type="checkbox" name="" id="" />
-                                Developed by<a href = "https://github.com/sahilmore-0412" target = "_blank"> Sahil</a>
+                                Developed by<a href = "https://sahilmore.netlify.app" target = "_blank"> Sahil</a>
                                 <button className="btn">
                                     Delete
                                 </button>
